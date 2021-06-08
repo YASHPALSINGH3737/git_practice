@@ -4,3 +4,4 @@ destinations = ["Paris, France", "Shanghai, China", "Los Angeles, USA", "Sao Pau
 
 test_traveler = ['Erin Wilkes', 'Shanghai, China', ['historical sites', 'art']]
 
+def get_destination(destination):
